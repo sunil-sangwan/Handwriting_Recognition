@@ -1,3 +1,5 @@
+# python script for print data recognised by image..
+
 import numpy as np
 from skimage.feature import hog
 from sklearn.externals import joblib
